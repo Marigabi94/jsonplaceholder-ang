@@ -1,8 +1,33 @@
+.card{
+  background-color: #FFFFE0;
+  box-shadow: 0 0 15px 0  #2876f9;
+  border-color:  #2876f9;
+  border-radius: 20px;
+  height: fit-content;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  color: #2F4D6B;
+  text-align: center;
+
+
+}
+.matContent{
+  margin-top: 3%;
+}
 .txtbox{
-  width: 550px;
-  height: 380px;
+  width: 750px;
+  height: 300px;
 }
 
 .txtarea{
-  height: 350px;
+  height: 250px;
+}
+
+@media only screen and (max-width: 768px){
+  .card{
+    width: 95vw !important;
+
+  }
 }

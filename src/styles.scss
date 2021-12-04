@@ -58,7 +58,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; overflow: h
   background-color: transparent;
   background-image: none;
   color: #2F4D6B;
-  box-shadow: 0 0 15px 5px  #f7b42c;
+  box-shadow: 0 0 15px 5px  #BE4415;
 
 }
 
@@ -66,9 +66,7 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; overflow: h
   box-shadow: none;
 }
 @media only screen and (max-width: 768px){
-   .card{
-      width: 80%;
-   }
+
    .btn:hover{
     color: #fafafa;
     background-color: #2876f9;

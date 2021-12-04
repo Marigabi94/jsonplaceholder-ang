@@ -10,6 +10,7 @@ table {
   width: 80%;
   text-align: center;
   font-family: "Original Surfer", cursive;
+  box-shadow: 0 0 15px 0  #2876f9;
 
 }
 
@@ -51,6 +52,7 @@ table {
   width: 80%;
   background-color: #BE4415;
   color: #fafafa;
+  box-shadow: 3px 6px 15px 3px  #2876f9;
 }
 
 ::ng-deep.mat-form-field-underline {
@@ -65,6 +67,7 @@ table {
   -ms-border-radius: 25px 25px 0 0;
   -o-border-radius: 25px 25px 0 0;
   border: 1.5px solid #BE4415;
+
 }
 
 th.mat-header-cell {
