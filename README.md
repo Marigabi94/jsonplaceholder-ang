@@ -8,7 +8,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 [![Typescript](https://img.shields.io/badge/Typescritp-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)]()
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![Material](https://img.shields.io/badge/Material-EE729B?style=for-the-badge&logo=materialdesign&logoColor=white&labelColor=101010)]() </br>
+[![Material](https://img.shields.io/badge/Material-EE729B?style=for-the-badge&logo=materialdesign&logoColor=white&labelColor=101010)]() 
+[![VS](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=101010)]()</br>
 
 ## Development server
 
