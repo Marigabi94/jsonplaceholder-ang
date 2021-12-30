@@ -1,5 +1,6 @@
 # JsonplaceholderAng
-[![](https://img.shields.io/github/last-commit/marigabi94/python_practicas_basicas?style=plastic&logo=github&logoColor=white&labelColor=101010)]()
+[![](https://img.shields.io/github/last-commit/marigabi94/python_practicas_basicas?style=plastic&logo=github&logoColor=white&labelColor=101010)]()</br>
+[![Web](https://img.shields.io/badge/Web-jsonplaceholder-3DCBC2?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://marigabi94.github.io/jsonplaceholder-ang/posts)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
